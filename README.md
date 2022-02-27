@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coditdoc
+- 👋 Hi, I’m @Jay
 - 👀 I’m interested in ... Front-end (mostly CSS)
 - 🌱 I’m currently learning ... front-end
 - 💞️ I’m looking to collaborate on ...
