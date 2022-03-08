@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jay
 - 👀 I’m interested in ... Front-end (mostly CSS)
-- 🌱 I’m currently learning ... front-end
+- 🌱 I’m currently learning ... Java script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
