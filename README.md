@@ -1,15 +1,9 @@
 - 👋 Hi, I’m @Jay
 - 👀 I’m interested in ... Front-end (mostly CSS)
 - 🌱 I’m currently learning ... Java script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- # 💫About Me :
-# 💫About Me :
-I’m currently working on my Skills.
-I'm currently leaning more about web development.
-Ask me anything related to tech.
-How to reach me: Email - loficode777@gmail.com
-Pronouns: He/His
+- 💞️ I’m looking to collaborate on ... Frontend Projects
+- 📫 How to reach me ... Email - loficode777@gmail.com
+- # 💫About Me : Im a Dog lover and a person who love's old school music.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay_g.7) 
