@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jay
-- 👀 I’m interested in ... Front-end (mostly CSS)
+- 👀 I’m interested in ... Front-end
 - 🌱 I’m currently learning ... Java script
 - 💞️ I’m looking to collaborate on ... Frontend Projects
 - 📫 How to reach me ... Email - loficode777@gmail.com
