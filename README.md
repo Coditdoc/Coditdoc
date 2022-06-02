@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Jay
-- 👀 I’m interested in ... Front-end
-- 🌱 I’m currently learning ... Java script
-- 💞️ I’m looking to collaborate on ... Frontend Projects
-- 📫 How to reach me ... Email - loficode777@gmail.com
-- # 💫About Me : Im a Dog lover and a person who love's old school music.
-
+- 👀 I’m interested in learning more about geneticAlgorithm. 
+- 🌱 I’m currently learning... Vanilla js
+- 💞️ I’m looking to collaborate on ... Frontend Projects.
+- # 💫About Me : ...... 或る日.
+- ✍️ let I = ["Want to be a tax payer one day, not a liability." -@jay_g.7].                                                                     
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay_g.7) 
 
@@ -17,7 +16,6 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 
 ---
