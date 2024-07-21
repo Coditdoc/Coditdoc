@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning... Vanilla js
 - 💞️ I’m looking to collaborate on ... Frontend Projects.
 - # 💫About Me : ...... 或る日.
-- ✍️ let I = ["Want to be a tax payer one day, not a liability." -@jay_g.7].                                                                     
+- ✍️ let I = ["Want to be a tax payer one day, not a liability." ].                                                                     
 ## 🌐Socials
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
 
